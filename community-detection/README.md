@@ -1,4 +1,4 @@
-# Project Overview
+## Project Overview
 This academic project focuses on analyzing network-structured data to understand
 relationships and structural patterns within a system.
 
